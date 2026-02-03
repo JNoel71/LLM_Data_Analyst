@@ -3,6 +3,7 @@
 ### Setup
 * Navigate to the backend folder and start the FastAPI server using `uvicorn app:app --reload`
 * Navigate to the frontend folder and call `npm install` followed by `npm run dev`
+* The backend folder will require a sandbox.py file that includes the variable `API_KEY`, which links to Google Gemini.
 
 ### Overview
 
